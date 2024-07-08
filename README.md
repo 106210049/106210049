@@ -1,6 +1,6 @@
 # About-me
 <h1 align="center">Hi 👋, I'm Hoang Bao Long</h1>
-<h3 align="center">t'm a Digital VLSI design engineer and embedded hardware engineer</h3>
+<h3 align="center">I'm a Digital VLSI design engineer and embedded hardware engineer</h3>
 
 <h4 align="center">🔭 I’m currently working on Front end VLSI design </h4>
 
