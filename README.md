@@ -1,4 +1,4 @@
-# About-me
+# About me
 <h1 align="center">Hi 👋, I'm Hoang Bao Long</h1>
 <h3 align="center">I'm a Digital VLSI design engineer</h3>
 
