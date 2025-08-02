@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Bao Long</h1>
 <h3 align="center">I'm a Digital VLSI design engineer</h3>
 
-<h4 align="center">🔭 I’m currently working on Digital design </h4>
+<h4 align="center">🔭 I’m currently working on VLSI Digital design </h4>
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **baolong140303@gmail.com**
